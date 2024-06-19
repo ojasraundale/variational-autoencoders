@@ -13,3 +13,5 @@ In brief, the VAE tries to learn a mapping from the distribution of an images $X
 ## Run the notebook
 The notebook the run VAE can be found in [vae.ipynb](/src/vae.ipynb)
 
+You need python and JAX installed to run the notebook. 
+
